@@ -1,4 +1,4 @@
-# ApproximateQSIM: An Approximate Noisy Quantum Circuit Simulator
+# QSIM: An Approximate Noisy Quantum Circuit Simulator
 
 ## Requirements ##
 
